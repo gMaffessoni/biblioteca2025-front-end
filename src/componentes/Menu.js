@@ -17,12 +17,12 @@ export default function Menu(){
                         </li>
                         <li className="nav-item dropdown">
                         <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Cadastros
+                            Listagens
                         </a>
                         <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a className="dropdown-item" href="#">Livros</a></li>
                             <li><a className="dropdown-item" href="#">Autores</a></li>
-                            <li><a className="dropdown-item" href="/categorias">Categorias</a></li>
+                            <li><a className="dropdown-item" href="/listacategoria">Categorias</a></li>
                         </ul>
                         </li>
                     </ul>
